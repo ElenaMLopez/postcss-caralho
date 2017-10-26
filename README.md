@@ -87,6 +87,8 @@ You can also use:
 * mierda (shit)
 * perdona (sorry)
 * porfavor (please)
+* por-cojones (because I say so)
+* por-mis-huevos (because I say so)
 
 ### French
 * merde (shit)
